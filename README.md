@@ -1,5 +1,11 @@
 # FleXR: A System Enabling Flexibly Distributed Extended Reality
 
+------
+
+**This is an archived repository of [FleXR](https://github.com/gt-flexr/FleXR). The latest FleXR and related repositories are available [here](https://github.com/gt-flexr/FleXR).**
+
+------
+
 <img src="https://github.com/gt-flexr/FleXR_Page/blob/main/figs/ar1.gif?raw=true" width="200"><img src="https://github.com/gt-flexr/FleXR_Page/blob/main/figs/simplear.gif?raw=true" width="200"><img src="https://github.com/gt-flexr/FleXR_Page/blob/main/figs/ar2.gif?raw=true" width="200"><img src="https://github.com/gt-flexr/FleXR_Page/blob/main/figs/ar3.gif?raw=true" width="200"><img src="https://github.com/gt-flexr/FleXR_Page/blob/main/figs/vr.gif?raw=true" width="200">
 
 ## Introduction
